@@ -6,6 +6,11 @@ Me llamo Liming Xin, tengo 17 años, he nacido en [Barcelona](https://www.google
  - [Minecraft](https://www.minecraft.net/es-es)
  - [Rocket League](https://www.rocketleague.com/es-es/)
 
+## Índice
+1. [Educación](https://github.com/L1mX1n/Pagina#educaci%C3%B3n)
+2. [Redes sociales](https://github.com/L1mX1n/Pagina#redes-sociales)
+3. [Habilidades](https://github.com/L1mX1n/Pagina#habilidades)
+
 ## Educación
 Actualmente estoy estudiando informatica en el Instituto Puig Castellar, lo que mas me gusta es la parte de **montaje y mantenimiento** de equipos informaticos, aparte tambien me gusta el modúlo de **redes**
 
