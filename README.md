@@ -31,3 +31,6 @@ Solo uso las redes para entretenerme, no suelo subir nada, abajo dejo una lista 
 La verdad no tengo muchas habilidades, las que tengo son:
 - Soy bueno jugando al futbol sin haber entrenado en ningún equipo
 - Se me da bien casi todos los deportes sin haber practicado
+
+
+![](https://s.france24.com/media/display/6aca8d1a-7783-11ea-9cf2-005056bf87d6/w:1280/p:16x9/WEB%2005ABR%20DEPORTES%20PORTADA%20FOTO.jpg)
