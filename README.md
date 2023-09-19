@@ -7,7 +7,8 @@ Me llamo Liming Xin, tengo 17 años y me gusta jugar con los amigos al ordenador
  - ([Rocket League](https://www.rocketleague.com/es-es/))
 
 ## Educación
-Actualmente estoy estudiando informatica, lo que mas me gusta es la parte de montaje y mantenimiento de equipos informaticos (![a](https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/montaje_mantenimiento_equipo.jpg?itok=DM6OPyK-))
+Actualmente estoy estudiando informatica, lo que mas me gusta es la parte de montaje y mantenimiento de equipos informaticos
+(![](https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/montaje_mantenimiento_equipo.jpg?itok=DM6OPyK-))
 
 ## Redes sociales
 Uso las redes para entretenerme, lo que mas uso seria:
