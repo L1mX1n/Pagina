@@ -13,7 +13,7 @@ Actualmente estoy estudiando informatica, lo que mas me gusta es la parte de mon
 
 ## Redes sociales
 Solo uso las redes para entretenerme, no suelo subir nada, abajo dejo una lista con las redes que mas a menos uso:
-```javascript
+```markdown
  1. **TikTok**
  2. **Discord**
  3. **Youtube**
