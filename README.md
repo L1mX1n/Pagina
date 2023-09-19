@@ -14,6 +14,7 @@ Actualmente estoy estudiando informatica en el Instituto Puig Castellar, lo que 
 ----------------------------------------------------
 **Centros en los que he estado:**
  > Escola Pere Vila
+
  > Institut Fort Pius
 
 ## Redes sociales
