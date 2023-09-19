@@ -11,7 +11,10 @@ Actualmente estoy estudiando informatica en el Instituto Puig Castellar, lo que 
 
 ![](https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/montaje_mantenimiento_equipo.jpg?itok=DM6OPyK-)
 
-**Centros en los que he estado: Escola Pere Vila, Institut Fort Pius**
+----------------------------------------------------
+**Centros en los que he estado:**
+ >Escola Pere Vila
+ >Institut Fort Pius
 
 ## Redes sociales
 Solo uso las redes para entretenerme, no suelo subir nada, abajo dejo una lista con las redes que mas a menos uso:
@@ -22,4 +25,3 @@ Solo uso las redes para entretenerme, no suelo subir nada, abajo dejo una lista 
  4. Twitch
  5. Instagram
 ```
- > aaa
