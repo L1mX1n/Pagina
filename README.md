@@ -12,11 +12,12 @@ Actualmente estoy estudiando informatica, lo que mas me gusta es la parte de mon
 ![](https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/montaje_mantenimiento_equipo.jpg?itok=DM6OPyK-)
 
 ## Redes sociales
-Uso las redes para entretenerme, lo que mas uso seria:
- - **TikTok**
- - **Discord**
- - **Youtube**
- - **Twitch**
- - **Instagram**
-
+Solo uso las redes para entretenerme, no suelo subir nada, abajo dejo una lista con las redes que mas a menos uso:
+```javascript
+ 1. **TikTok**
+ 2. **Discord**
+ 3. **Youtube**
+ 4. **Twitch**
+ 5. **Instagram**
+```
 
